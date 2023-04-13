@@ -55,6 +55,35 @@ Here on the platform you will have access to some projects carried out during my
    <img src="https://skillicons.dev/icons?i=sass,spring,stackoverflow,supabase,svg,ts,visualstudio,vscode,vue,wordpress" />
   </a>
 </p>
+</br>
+<div id="msg" align="center">
+<h2>
+  <img src="https://media.giphy.com/media/fIwbvxHSLmyEi6Jux2/giphy.gif" width="30px"/>
+  Academic formations and highlighted courses:
+</h2>
+</br>
+</div>
 
+✅ 👨‍💻 - Analysis and systems development ( UNIFAMETRO )
+</br>
+⬜ 👨‍🎓 - Postgraduate Degree in Software Engineering
 
+<div id="msg" align="center">
+<h2>
+  <img src="https://media.giphy.com/media/gjrOAylhpZm3dLnO5J/giphy.gif" width="30px"/>
+ Skills:
+</h2>
+</br>
+</div>
 
+✅ Java 8,11 and 20 Training ( DevSuperior )
+</br>
+⬜ Alura Java backend training
+
+</br>
+<div align="right">
+  Legenda
+✅ Feito
+⬜ Em desenvolvimento
+</div>
+            
