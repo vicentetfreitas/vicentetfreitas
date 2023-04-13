@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/vicente-freitas-69b6761bb/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.linkedin.com/in/vicente-freitas-69b6761bb/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="#" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Whatsapp-geen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
@@ -36,14 +39,13 @@ Here on the platform you will have access to some projects carried out during my
 
 ---
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&username=vicentetfreitas&bg_color=0D1117&border_radius=15&title_color=79DAFA&text_color=FF6E96&disable_animations=true&show_icons=true&include_all_commits=true&line_height=28&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentetfreitas&langs_count=10&layout=compact&title_color=79DAFA&text_color=FF6E96&bg_color=0D1117&card_width=auto&border_radius=15&hide_title=false&disable_animations=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/vicentetfreitas/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
  </div> 
-</br>
 <div align="center">
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&username=vicentetfreitas&bg_color=0D1117&border_radius=15&title_color=79DAFA&text_color=FF6E96&disable_animations=true&show_icons=true&include_all_commits=true&line_height=28&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentetfreitas&langs_count=10&layout=compact&title_color=79DAFA&text_color=FF6E96&bg_color=0D1117&card_width=auto&border_radius=15&hide_title=false&disable_animations=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/vicentetfreitas/github-readme-stats) 
 </div> 
 </br>
 <p align="center">
