@@ -82,8 +82,8 @@ Here on the platform you will have access to some projects carried out during my
 
 </br>
 <div align="right">
-  Legenda
-✅ Feito
-⬜ Em desenvolvimento
+  Subtitle
+✅ Done
+⬜ Studying
 </div>
             
