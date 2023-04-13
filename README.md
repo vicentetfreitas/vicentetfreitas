@@ -83,6 +83,7 @@ Here on the platform you will have access to some projects carried out during my
 </br>
 <div align="right">
   Subtitle
+  </br>
 ✅ Done
 ⬜ Studying
 </div>
