@@ -23,7 +23,7 @@
 </div>
 <div id="msg" align="center">
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hello, welcome to my GitHub profile! 
   </br>
   Shall we know my trajectory?
@@ -37,13 +37,15 @@ Here on the platform you will have access to some projects carried out during my
 ---
 <div align="center">
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&bg_color=0D1117&card_width=auto&hide_rank=true&border_radius=15&title_color=79DAFA&text_color=FF6E96&hide_progress=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&username=vicentetfreitas&bg_color=0D1117&border_radius=15&title_color=79DAFA&text_color=FF6E96&disable_animations=true&show_icons=true&include_all_commits=true&line_height=28&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentetfreitas&langs_count=10&layout=compact&title_color=79DAFA&text_color=FF6E96&bg_color=0D1117&card_width=auto&border_radius=15&hide_title=false&disable_animations=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/vicentetfreitas/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
  </div> 
-  </br>
+</br>
+<div align="center">
+
+</div> 
+</br>
 <p align="center">
   <a href="https://github.com/vicentetfreitas/vicentetfreitas/">
    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,cs,css,discord,docker,dotnet,eclipse,figma,git,github,gitlab,gulp" />
