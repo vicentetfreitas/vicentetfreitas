@@ -38,7 +38,6 @@ Here on the platform you will have access to some projects carried out during my
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
 
 <p align="center">
   <a href="https://github.com/vicentetfreitas/vicentetfreitas/">
