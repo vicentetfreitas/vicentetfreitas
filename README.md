@@ -39,11 +39,11 @@ Here on the platform you will have access to some projects carried out during my
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&bg_color=0D1117&card_width=auto&hide_rank=true&border_radius=15&title_color=79DAFA&text_color=FF6E96&hide_progress=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
 
  </div> 
-  
+  </br>
 <p align="center">
   <a href="https://github.com/vicentetfreitas/vicentetfreitas/">
    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,cs,css,discord,docker,dotnet,eclipse,figma,git,github,gitlab,gulp" />
