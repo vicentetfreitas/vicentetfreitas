@@ -35,10 +35,15 @@ Here on the platform you will have access to some projects carried out during my
 </p> 
 
 ---
+<div align="center">
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
 
+ </div> 
+  
 <p align="center">
   <a href="https://github.com/vicentetfreitas/vicentetfreitas/">
    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,cs,css,discord,docker,dotnet,eclipse" />
