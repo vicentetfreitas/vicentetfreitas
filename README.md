@@ -47,7 +47,7 @@ Here on the platform you will have access to some projects carried out during my
 <p align="center">
   <a href="https://github.com/vicentetfreitas/vicentetfreitas/">
    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bootstrap,cs,css,discord,docker,dotnet,eclipse,figma,git,github,gitlab,gulp" />
-   <img src="https://skillicons.dev/icons?i=,hibernate,html,idea,ai,java,js,jquery,linux,md,maven,mysql,nodejs,ps,php,postman" />
+   <img src="https://skillicons.dev/icons?i=hibernate,html,idea,ai,java,js,jquery,linux,md,maven,mysql,nodejs,ps,php,postman" />
    <img src="https://skillicons.dev/icons?i=sass,spring,stackoverflow,supabase,svg,ts,visualstudio,vscode,vue,wordpress" />
   </a>
 </p>
