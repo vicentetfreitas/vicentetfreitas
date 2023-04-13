@@ -39,8 +39,8 @@ Here on the platform you will have access to some projects carried out during my
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetfreitas&theme=dracula&card_width=auto&hide_rank=true&border_radius=15)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vicentetfreitas&theme=dracula&border_radius=15&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
 
  </div> 
   
