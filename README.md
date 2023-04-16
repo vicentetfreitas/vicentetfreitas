@@ -78,9 +78,9 @@ Here on the platform you will have access to some projects carried out during my
 
 ✅ Java 8,11 and 20 Training ( DevSuperior )
 </br>
-⬜ Spring Boot 3: Develop a Rest API in Java
-
+✅ Spring Boot 3: Develop a Rest API in Java
 </br>
+⬜ Persistence with JPA: Hibernate
 <div align="right">
   Subtitle
   </br>
