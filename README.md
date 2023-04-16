@@ -78,7 +78,7 @@ Here on the platform you will have access to some projects carried out during my
 
 ✅ Java 8,11 and 20 Training ( DevSuperior )
 </br>
-⬜ Alura Java backend training
+⬜ Spring Boot 3: Develop a Rest API in Java
 
 </br>
 <div align="right">
