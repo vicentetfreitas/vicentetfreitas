@@ -80,6 +80,8 @@ Here on the platform you will have access to some projects carried out during my
 </br>
 ✅ Spring Boot 3: Develop a Rest API in Java
 </br>
+⬜ Oracle SQL Specialist: From Basic to Advanced - 2022
+</br>
 ⬜ Persistence with JPA: Hibernate
 <div align="right">
   Subtitle
