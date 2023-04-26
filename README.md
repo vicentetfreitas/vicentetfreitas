@@ -64,7 +64,7 @@ Here on the platform you will have access to some projects carried out during my
 </br>
 </div>
 
-✅ 👨‍💻 - Analysis and systems development ( UNIFAMETRO )
+✅ 👨‍💻 - Analysis and systems development ( UNIFAMETROs )
 </br>
 ⬜ 👨‍🎓 - Postgraduate Degree in Software Engineering
 
