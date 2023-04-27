@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="290"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
    <a href="https://gitlab.com/vicentefreitas" target="_blank" rel="noopener noreferrer"> 
